@@ -30,7 +30,7 @@ Discussion Venues
    This note is to be removed before publishing as an RFC.
 
    Discussion of this document takes place on the dyncast non-WG mailing
-   list (subscribe (https://www.ietf.org/mailman/listinfo/dyncast)).
+   list (subscribe (https://www.ietf.org/mailman/listinfo/dyncast)),
    which is archived at https://mailarchive.ietf.org/arch/browse/
    dyncast/.
 
